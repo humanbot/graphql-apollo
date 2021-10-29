@@ -1,3 +1,17 @@
 # Catstronauts - server
+http://localhost:4000
 
-The starting point of the `server` code for Odyssey Lift-off I course.
+# catsronauts - client
+http://localhost:3000
+
+## Learn GraphQL with Apollo
+https://odyssey.apollographql.com/
+
+
+## Studio apollo graphql playgroud needs local server to be running
+
+https://studio.apollographql.com/graph/My-Graph-5df4f/explorer?variant=current
+
+## Cstronauts RestAPI endpoint
+
+https://odyssey-lift-off-rest-api.herokuapp.com/docs/
